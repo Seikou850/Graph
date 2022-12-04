@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assessed Exercise 4 Graph", "Assessed Exercise 4 Graph\Assessed Exercise 4 Graph.csproj", "{F04A42B9-E1B0-4652-A436-D2808BF23CC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F04A42B9-E1B0-4652-A436-D2808BF23CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04A42B9-E1B0-4652-A436-D2808BF23CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04A42B9-E1B0-4652-A436-D2808BF23CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04A42B9-E1B0-4652-A436-D2808BF23CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
